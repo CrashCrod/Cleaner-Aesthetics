@@ -1,7 +1,7 @@
 # Cleaner-Aesthetics
 Please contact me if you have any issues, with the download or have a improved texture for the project please contact a team member at **https://discord.gg/YWRDQNS**, simply @'ing a team member or dming a team member will get a quick response.
 
-# Desciption
+# Description
 Our Project is focused on creating a cleaner better outline of Mario 64 using upscaled textures as our base. However our goal is not to just simply upscale, but to put the time and effort to enhance this great game. To describe our textures we aim at recreating the look and style of the original M64 textures, using upscales and sgi textures as the base.
 
 
