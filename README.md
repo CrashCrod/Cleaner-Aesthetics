@@ -8,7 +8,7 @@ Our Project is focused on creating a cleaner better outline of Mario 64 using up
 ## Cleaner Aesthetics  Contributors:
 Without these great people we wouldn't have this awesome project to use. Please Give Credit to these people along with our pack, as many man hours and dedication has been put into this pack. Linking here and giving a list of contributers is sufficient credit. If your name is missing from this list please contact one of us on this discord server, **https://discord.gg/YWRDQNS**, simply @'ing a team member or dming a team member will get a quick response.
 
-Hakobe, Nathan, gunvalk, Guh Huh, grego, Ultra553, Dr.Sci-Fi, Derailus, CrashPro, Fanamel, FignetKazook, Roovahlees, Vertigo, Fanfreluche, granvillimus, Mazeo, Cazsu, PokeHeadroom, TheExpectKnight
+Hakobe, Nathan, gunvalk, Guh Huh, grego, Ultra553, Dr.Sci-Fi, Derailus, Nobodyuknow CrashPro, Fanamel, FignetKazook, Roovahlees, Vertigo, Fanfreluche, granvillimus, Mazeo, Cazsu, PokeHeadroom, TheExpectKnight
 
 
 # Credits to Recompiler for this guide.
